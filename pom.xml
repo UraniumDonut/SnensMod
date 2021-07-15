@@ -40,14 +40,14 @@
 
     <developers>
         <developer>
-                <name>Shaila Gray</name>
-                <url>http://sgray.me</url>
+                <name>Marcel, Michi und Leon</name>
+                <url>http://donut.cf</url>
         </developer>
     </developers>
 
     <properties>
         <!--  Author and MainClass are used in plugin.yml -->
-        <author>SGray</author>
+        <author>Marcel, Michi und Leon</author>
         <mainClass>me.sgray.template.spigotplugin.SpigotPlugin</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
