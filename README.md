@@ -1,3 +1,8 @@
+#DE SNENS MOD
+
+
+
+
 ## Summary
 
 The SpigotPlugin project is a template for creating a new project for the Spigot server implementation for Minecraft. It can compile out of box, but will do absolutely nothing without modification.
